@@ -1,0 +1,4 @@
+c:\users\christian\documents\ASPNETTestProject1\ASPNETTestProject1.Domain\bin\Debug\ASPNETTestProject1.Domain.dll
+c:\users\christian\documents\ASPNETTestProject1\ASPNETTestProject1.Domain\bin\Debug\ASPNETTestProject1.Domain.pdb
+c:\users\christian\documents\ASPNETTestProject1\ASPNETTestProject1.Domain\obj\Debug\ASPNETTestProject1.Domain.dll
+c:\users\christian\documents\ASPNETTestProject1\ASPNETTestProject1.Domain\obj\Debug\ASPNETTestProject1.Domain.pdb
